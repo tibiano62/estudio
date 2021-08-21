@@ -1,0 +1,8 @@
+tercera prueba y definitiva
+
+
+acuerdate que cuando creas una rama nueva, tienes que pasar a tu branch master, main (o raiz) y mergear
+
+git branch --merged (desde la raiz) te muestra todas las ramas que estan unidas a tu directorio local (puede que tengas ramas en staging sin mergear entonces es necesario hacer esto para que puedar subir los cambios al repo con un pull sin problemas)
+
+git merge prueba3
