@@ -16,4 +16,5 @@ git push origin main (subimos los cambios de nuestro directorio local al repo)
 esoooooooooooooooooo un pequeño paso para devops, un gran paso para el tibiah 
 
 
-gogogogogo tu te la puedes qlo!
+gogogogogo tu te la puedes qlo!!!
+
