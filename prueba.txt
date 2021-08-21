@@ -1,6 +1,12 @@
 probando tutotial de git de pelao nerd
 
+<<<<<<< HEAD
 ahora si probando ya con todo repasado y comprendido!! :D!!
 
 
 ahora probando sin ver los comandos, solo memorizado!!!!
+=======
+ahora si probando ya con todo repasado y comprendido!! :D!!!
+
+probando comandos sin ver, solo memorizado!! :D 
+>>>>>>> prueba2

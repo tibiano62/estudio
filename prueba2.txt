@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 ahora probando sin ver el video, solo con los comandos memorizados!
+=======
+esto es para validar una duda que tenia, sobre subir archivos
+
+
+todo realizado nuevamente sin ver comandos
+
+git pull origin main
+git checkout main (donde main es el nombre de la branch)
+git branch prueba (creando una branch de prueba)
+se modifica un archivo cualquiera
+git add -A (para actualizar los cambios)
+git commit -m (para agregar el comentario de lo realizado)
+git push origin prueba (para actualizar los cambios en el directorio local)
+git chekcout main (nos cambiamos a la branch main)
+git push origin main (subimos los cambios de nuestro directorio local al repo)
+
+esoooooooooooooooooo un pequeño paso para devops, un gran paso para el tibiah 
+
+
+gogogogogo tu te la puedes qlo!!!
+
