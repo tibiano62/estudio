@@ -21,3 +21,9 @@ esoooooooooooooooooo un pequeño paso para devops, un gran paso para el tibiah
 
 gogogogogo tu te la puedes qlo!!!!
 
+faltó que hay que agregar el merge cada vez que se modifica algo, para actualizar la rama en main o la raiz, esto debe ser desde la raiz (explicado en prueba3)
+
+git branch --merged
+git merge prueba2
+git push origin main
+
